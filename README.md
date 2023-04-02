@@ -7,6 +7,10 @@ E-mail: paolamodesto20@gmail.com
 
 ![Modesto GitHub stats](https://github-readme-stats.vercel.app/api?username=modesto20&show_icons=true&theme=dark)
 
+
+### Formação
+Cursando Análise e Desenvolvimento de Sistemas na Fatec São Caetano do Sul
+
 ###    Tecnologias
 <div style= "display: inline_block"><br/>
     <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,5 +23,13 @@ E-mail: paolamodesto20@gmail.com
   <img aling="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
 
-### Formação
-Cursando Análise e Desenvolvimento de Sistemas na Fatec São Caetano do Sul
+### IDE
+<div style= "display: inline_block"><br/>
+    <img aling="center" alt="eclipce" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img aling="center" alt="notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
+  <img aling="center" alt="sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+  <img aling="center" alt="visualstudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  <img aling="center" alt="visualstudiocode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div>
+
+
